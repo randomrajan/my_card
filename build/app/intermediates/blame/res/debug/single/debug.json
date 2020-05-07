@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\mi_card_flutter-master\\mi_card_flutter-master\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "G:\\mi_card_flutter-master\\mi_card_flutter-master\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\mi_card_flutter-master\\mi_card_flutter-master\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "G:\\mi_card_flutter-master\\mi_card_flutter-master\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\mi_card_flutter-master\\mi_card_flutter-master\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "G:\\mi_card_flutter-master\\mi_card_flutter-master\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\mi_card_flutter-master\\mi_card_flutter-master\\build\\app\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
+        "source": "G:\\mi_card_flutter-master\\mi_card_flutter-master\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "G:\\mi_card_flutter-master\\mi_card_flutter-master\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "G:\\mi_card_flutter-master\\mi_card_flutter-master\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\mi_card_flutter-master\\mi_card_flutter-master\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "G:\\mi_card_flutter-master\\mi_card_flutter-master\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]
